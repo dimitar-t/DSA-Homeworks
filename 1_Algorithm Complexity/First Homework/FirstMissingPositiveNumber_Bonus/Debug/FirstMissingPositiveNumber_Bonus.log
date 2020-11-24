@@ -1,0 +1,4 @@
+﻿  FirstMissingPositiveNumber_Bonus.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\First Homework\FirstMissingPositiveNumber_Bonus\FirstMissingPositiveNumber_Bonus.cpp(9,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\First Homework\FirstMissingPositiveNumber_Bonus\FirstMissingPositiveNumber_Bonus.cpp(9,22): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  FirstMissingPositiveNumber_Bonus.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\First Homework\Debug\FirstMissingPositiveNumber_Bonus.exe

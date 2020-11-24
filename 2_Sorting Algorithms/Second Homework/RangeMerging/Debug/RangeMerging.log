@@ -1,0 +1,5 @@
+﻿  RangeMerging.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Second Homework\RangeMerging\RangeMerging.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Second Homework\RangeMerging\RangeMerging.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Second Homework\RangeMerging\RangeMerging.cpp(119,25): warning C4018: '<': signed/unsigned mismatch
+  RangeMerging.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Second Homework\Debug\RangeMerging.exe

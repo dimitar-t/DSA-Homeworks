@@ -1,0 +1,3 @@
+﻿  CyclicalArray.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Third Test\CyclicalArray\CyclicalArray.cpp(68): warning C4715: 'binarySearch': not all control paths return a value
+  CyclicalArray.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\Third Test\Debug\CyclicalArray.exe
