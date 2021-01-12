@@ -1,0 +1,6 @@
+﻿  HotelRobbery.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\9_HashMap\NinthHomework\HotelRobbery\HotelRobbery.cpp(43,29): error C3867: 'std::priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::greater<_Ty>>::pop': non-standard syntax; use '&' to create a pointer to member
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\9_HashMap\NinthHomework\HotelRobbery\HotelRobbery.cpp(43,29): error C3867:         with
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\9_HashMap\NinthHomework\HotelRobbery\HotelRobbery.cpp(43,29): error C3867:         [
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\9_HashMap\NinthHomework\HotelRobbery\HotelRobbery.cpp(43,29): error C3867:             _Ty=int
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\9_HashMap\NinthHomework\HotelRobbery\HotelRobbery.cpp(43,29): error C3867:         ]

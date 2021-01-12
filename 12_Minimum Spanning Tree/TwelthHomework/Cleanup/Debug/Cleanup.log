@@ -1,0 +1,4 @@
+﻿  Cleanup.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\12_Minimum Spanning Tree\TwelthHomework\Cleanup\Cleanup.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\12_Minimum Spanning Tree\TwelthHomework\Cleanup\Cleanup.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+  Cleanup.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\12_Minimum Spanning Tree\TwelthHomework\Debug\Cleanup.exe

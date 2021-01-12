@@ -1,0 +1,5 @@
+﻿  CyclicalGraph.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\10_Basic Graphs\TenthHomework\CyclicalGraph\CyclicalGraph.cpp(49,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\10_Basic Graphs\TenthHomework\CyclicalGraph\CyclicalGraph.cpp(53,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\10_Basic Graphs\TenthHomework\CyclicalGraph\CyclicalGraph.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  CyclicalGraph.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\10_Basic Graphs\TenthHomework\Debug\CyclicalGraph.exe

@@ -1,0 +1,25 @@
+﻿  Deliveries.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:             _Ty=__int64
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:             _Ty1=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\utility(127,16): warning C4244:         ]
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message : see reference to function template instantiation 'std::pair<int,int>::pair<__int64,int&,0>(_Other1 &&,_Other2) noexcept' being compiled
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         with
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         [
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :             _Other1=__int64,
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :             _Other2=int &
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         ]
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message : see reference to function template instantiation 'std::pair<int,int>::pair<__int64,int&,0>(_Other1 &&,_Other2) noexcept' being compiled
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         with
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         [
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :             _Other1=__int64,
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :             _Other2=int &
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Deliveries\Deliveries.cpp(68): message :         ]
+  Deliveries.vcxproj -> C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\11_Djikstra\EleventhTest\Debug\Deliveries.exe
