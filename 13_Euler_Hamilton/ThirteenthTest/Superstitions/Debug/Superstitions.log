@@ -1,0 +1,3 @@
+﻿  Superstitions.cpp
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\13_Euler_Hamilton\ThirteenthTest\Superstitions\Superstitions.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\University\Second Year\First Semester\Data Structures and Algorithms\13_Euler_Hamilton\ThirteenthTest\Superstitions\Superstitions.cpp(44): error C4700: uninitialized local variable 'queries' used
